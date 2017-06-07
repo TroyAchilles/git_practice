@@ -4,3 +4,4 @@ Git is GPL
 new a branch dev
 test workstation
 master commit 0
+create feature1 branch
