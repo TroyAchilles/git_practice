@@ -5,3 +5,4 @@ new a branch dev
 test workstation
 master commit 0
 create feature1 branch
+feature1 commit 1
