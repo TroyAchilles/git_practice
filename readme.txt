@@ -9,3 +9,4 @@ feature1 commit 1
 feature1 commit 2
 dev branch commit1
 janey modify 1
+![Image text](https://github.com/TroyAchilles/git_practice/master/image/git.png)
