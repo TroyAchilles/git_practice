@@ -8,3 +8,4 @@ create feature1 branch
 feature1 commit 1
 feature1 commit 2
 dev branch commit1
+janey modify 1
