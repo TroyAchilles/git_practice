@@ -11,3 +11,4 @@ dev branch commit1
 janey modify 1
 ![Image](https://github.com/TroyAchilles/git_practice/blob/master/image/git.png)
 ![image](https://github.com/xiayuanquan/BezierCurveLineTest/blob/master/BezierCurveLineTest/BezierCurveLineTest/screenshots/bar.png)
+Bob commit master UPDATE.
